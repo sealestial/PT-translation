@@ -19,16 +19,16 @@
 		"message": "Twitch Indesejado:\nVocê está preste a esconder todas as categorias e canais\ncom a seguinte tag:"
 	},
 	"confirm_HideButtons": {
-		"message": "Twitch Indesejado:\nYou are about to hide all \"X\" buttons.\n\nYou can toggle the visibility by clicking on the 👁 eye icon again."
+		"message": "Twitch Indesejado:\nVocê está preste a esconder todos botôes \"X\".\n\nVocê pode alternar a visibilidade clicando no ícone de olho 👁 novamente."
 	},
 	"alert_StorageQuota": {
-		"message": "Twitch Indesejado:\nThe blacklist is full and can no longer be synchronized."
+		"message": "Twitch Indesejado:\nA lista de bloqueios está cheia e não pode mais ser sincronizada."
 	},
 	"alert_StorageThrottle": {
-		"message": "Twitch Indesejado:\nThe storage service is currently busy.\nPlease wait a few minutes, restart your browser and try again."
+		"message": "Twitch Indesejado:\nO serviço de armazanamento está ocupado no momento.\nPor favor, espere alguns minutos, reinicie seu navegador e tente novamente."
 	},
 	"alert_StorageIssue": {
-		"message": "Twitch Indesejado:\nThe storage service encountered an unexpected error.\nPlease wait a few minutes, restart your browser and try again."
+		"message": "Twitch Indesejado:\nO serviço de armazanamento encontrou um erro inexperado.\nPor favor, espere alguns minutos, reinicie seu navegador e tente novamente."
 	},
 
 	"popup_ManageBlacklist": {
