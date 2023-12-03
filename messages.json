@@ -4,7 +4,7 @@
 	},
 
 	"label_Management": {
-		"message": "Configurar bloqueios"
+		"message": "Configurar Bloqueios"
 	},
 	"label_HideCategory": {
 		"message": "Esconder Categoria"
@@ -32,7 +32,7 @@
 	},
 
 	"popup_ManageBlacklist": {
-		"message": "Configurar bloqueios"
+		"message": "Configurar Bloqueios"
 	},
 	"popup_EnableExtension": {
 		"message": "Habilitar Extensão"
@@ -41,71 +41,71 @@
 		"message": "Desabilitar Extensão"
 	},
 	"popup_ToggleButtons": {
-		"message": "Mostrar botões \"X\""
+		"message": "Mostrar Botões \"X\""
 	},
 
 	"blacklist_SettingsHeadline": {
 		"message": "Configurações"
 	},
 	"blacklist_SettingsHideFollowing": {
-		"message": "Also filter on the \"Following\" Page"
+		"message": "Filtrar também na página \"Following\""
 	},
 	"blacklist_SettingsHideReruns": {
-		"message": "Hide Stream Reruns"
+		"message": "Exconder reprises de stream"
 	},
 	"blacklist_SettingsSyncStorage": {
-		"message": "Synchronize Blacklist via Cloud"
+		"message": "Sincronizar lista de bloqueio via nuvem"
 	},
 	"blacklist_Categories": {
-		"message": "Blacklisted Categories"
+		"message": "Categorias Bloqueadas"
 	},
 	"blacklist_Channels": {
-		"message": "Blacklisted Channels"
+		"message": "Canais Bloquados"
 	},
 	"blacklist_Tags": {
-		"message": "Blacklisted Tags"
+		"message": "Tags Bloqueadas"
 	},
 	"blacklist_Titles": {
-		"message": "Blacklisted Titles"
+		"message": "Títulos Bloqueados"
 	},
 	"blacklist_CategoriesInput": {
-		"message": "Name of Category to blacklist"
+		"message": "Nome da categoria a ser bloqueada"
 	},
 	"blacklist_ChannelsInput": {
-		"message": "Name of Channel to blacklist"
+		"message": "Nome do canal a ser bloqueado"
 	},
 	"blacklist_TagsInput": {
-		"message": "Name of Tag to blacklist"
+		"message": "Nome da tag a ser bloqueado"
 	},
 	"blacklist_TitlesInput": {
-		"message": "Pattern in Title to blacklist"
+		"message": "Padrão de título a ser bloquado"
 	},
 	"blacklist_PatternExplainedLabel": {
-		"message": "Supported patterns explained..."
+		"message": "Explicando padrões suportados..."
 	},
 	"blacklist_PatternExplainedText": {
-		"message": "The following patterns are supported:\n\nhalf-life 3\n(The term must match exactly, case-insensitive.)\n\n'Half-Life 3'\n(The term must match exactly, case-sensitive.)\n\n~half-life\n(The term must be contained, case-insensitive.)\n\n/^half\\-?life [0-9]+/i\n(The term must match the regular expression, case-insensitive.)\n\n/^Half\\-?Life [0-9]+/\n(The term must match the regular expression, case-sensitive.)"
+		"message": "Os seguintes padrões são suportados:\n\nhalf-life 3\n(O termo deve corresponder precisamente, sem distinção entre maiúsculas ou minúsculas.)\n\n'Half-Life 3'\n(O termo deve corresponder precisamente, maiúsculas e minúsculas.)\n\n~half-life\n(O termo deve corresponder precisamente, sem distinção entre maiúsculas ou minúsculas.)\n\n/^half\\-?life [0-9]+/i\n(O termo deve corresponder precisamente com a expressão regular, sem distinção entre maiúsculas ou minúsculas.)\n\n/^Half\\-?Life [0-9]+/\n(O termo deve corresponder precisamente com a expressão regular, maiúsculas e minúsculas.)"
 	},
 	"blacklist_Empty": {
-		"message": "Nothing blacklisted yet."
+		"message": "Lista de bloqueio vazia."
 	},
 	"blacklist_Add": {
-		"message": "Add"
+		"message": "Adicionar"
 	},
 	"blacklist_Remove": {
-		"message": "Remove"
+		"message": "Remover"
 	},
 	"blacklist_RemoveAll": {
-		"message": "Clear"
+		"message": "Limpar"
 	},
 	"blacklist_Save": {
-		"message": "Save"
+		"message": "Salvar"
 	},
 	"blacklist_Cancel": {
-		"message": "Cancel"
+		"message": "Cancelar"
 	},
 	"blacklist_Import": {
-		"message": "↳ Import"
+		"message": "↳ Importar"
 	},
 	"blacklist_ImportSuccess": {
 		"message": "Unwanted Twitch:\nThe selected file was successfully imported.\nClick the [Save] button to finish the import."
