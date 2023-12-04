@@ -19,10 +19,10 @@
 		"message": "Twitch Indesejado:\nVocê está preste a esconder todas as categorias e canais\ncom a seguinte tag:"
 	},
 	"confirm_HideButtons": {
-		"message": "Twitch Indesejado:\nVocê está preste a esconder todos botôes \"X\".\n\nVocê pode alternar a visibilidade clicando no ícone de olho 👁 novamente."
+		"message": "Twitch Indesejado:\nVocê está preste a esconder todos botôes \"X\".\n\nClique no ícone de olho 👁 para alternar a visibilidade novamente."
 	},
 	"alert_StorageQuota": {
-		"message": "Twitch Indesejado:\nA lista de bloqueios está cheia e não pode mais ser sincronizada."
+		"message": "Twitch Indesejado:\nA Lista de Bloqueios está cheia e não pode mais ser sincronizada."
 	},
 	"alert_StorageThrottle": {
 		"message": "Twitch Indesejado:\nO serviço de armazanamento está ocupado no momento.\nPor favor, espere alguns minutos, reinicie seu navegador e tente novamente."
@@ -51,10 +51,10 @@
 		"message": "Filtrar também na página \"Following\""
 	},
 	"blacklist_SettingsHideReruns": {
-		"message": "Exconder reprises de stream"
+		"message": "Esconder reprises de stream"
 	},
 	"blacklist_SettingsSyncStorage": {
-		"message": "Sincronizar lista de bloqueio via nuvem"
+		"message": "Sincronizar Lista de Bloqueio via nuvem"
 	},
 	"blacklist_Categories": {
 		"message": "Categorias Bloqueadas"
@@ -69,16 +69,16 @@
 		"message": "Títulos Bloqueados"
 	},
 	"blacklist_CategoriesInput": {
-		"message": "Nome da categoria a ser bloqueada"
+		"message": "Nome da Categoria a ser bloqueada"
 	},
 	"blacklist_ChannelsInput": {
-		"message": "Nome do canal a ser bloqueado"
+		"message": "Nome do Canal a ser bloqueado"
 	},
 	"blacklist_TagsInput": {
-		"message": "Nome da tag a ser bloqueado"
+		"message": "Nome da Tag a ser bloqueado"
 	},
 	"blacklist_TitlesInput": {
-		"message": "Padrão de título a ser bloquado"
+		"message": "Padrão de Título a ser bloquado"
 	},
 	"blacklist_PatternExplainedLabel": {
 		"message": "Explicando padrões suportados..."
@@ -108,15 +108,15 @@
 		"message": "↳ Importar"
 	},
 	"blacklist_ImportSuccess": {
-		"message": "Unwanted Twitch:\nThe selected file was successfully imported.\nClick the [Save] button to finish the import."
+		"message": "Twitch Indesejado:\nO arquivo selecionado foi importado com sucesso.\nClique no botão [Salvar] para finalizar a importação."
 	},
 	"blacklist_ImportFailure": {
-		"message": "Unwanted Twitch:\n(Error) The selected file does not seem to be a valid blacklist export."
+		"message": "Twitch Indesejado:\n(Erro) O arquive selecionado parece não ser uma exportação válida de lista de bloqueio."
 	},
 	"blacklist_Export": {
-		"message": "↱ Export"
+		"message": "↱ Exportar"
 	},
 	"blacklist_Processing": {
-		"message": "Loading. Please wait..."
+		"message": "Carregando. Por favor, aguarde..."
 	}
 }
