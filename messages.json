@@ -48,7 +48,7 @@
 		"message": "Configurações"
 	},
 	"blacklist_SettingsHideFollowing": {
-		"message": "Filtrar também na página \"Following\""
+		"message": "Filtrar também na página \"Seguindo\""
 	},
 	"blacklist_SettingsHideReruns": {
 		"message": "Esconder reprises de stream"
@@ -81,13 +81,13 @@
 		"message": "Padrão de Título a ser bloquado"
 	},
 	"blacklist_PatternExplainedLabel": {
-		"message": "Explicando padrões suportados..."
+		"message": "Explicação dos padrões suportados..."
 	},
 	"blacklist_PatternExplainedText": {
 		"message": "Os seguintes padrões são suportados:\n\nhalf-life 3\n(O termo deve corresponder precisamente, sem distinção entre maiúsculas ou minúsculas.)\n\n'Half-Life 3'\n(O termo deve corresponder precisamente, maiúsculas e minúsculas.)\n\n~half-life\n(O termo deve corresponder precisamente, sem distinção entre maiúsculas ou minúsculas.)\n\n/^half\\-?life [0-9]+/i\n(O termo deve corresponder precisamente com a expressão regular, sem distinção entre maiúsculas ou minúsculas.)\n\n/^Half\\-?Life [0-9]+/\n(O termo deve corresponder precisamente com a expressão regular, maiúsculas e minúsculas.)"
 	},
 	"blacklist_Empty": {
-		"message": "Lista de bloqueio vazia."
+		"message": "Lista de Bloqueios vazia."
 	},
 	"blacklist_Add": {
 		"message": "Adicionar"
